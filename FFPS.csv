@@ -1,4 +1,4 @@
-# q, m2_ME, m2_mJ, P, theta_E_uas, mu_rel, t_E, u0, rho, eventID, adsurl 
+# q, m2_ME, m2_MJ, P, theta_E_uas, mu_rel, t_E, u0, rho, eventID, adsurl 
 0.0, 22, 0.07, 1.0, 4.73, 5.50, 0.315, 0.208, 1.08,  MOA-9y-770, https://ui.adsabs.harvard.edu/abs/2023AJ....166..107K
 0.0, 0.75, 0.002, 0.5, 0.9, 6.15, 0.057, 0.57, 1.40, MOA-9y-5919, https://ui.adsabs.harvard.edu/abs/2023AJ....166..107K
 0.0, 0.37, 0.001, 0.5, 0.9, 6.15, 0.057, 0.57, 1.40, MOA-9y-5919, https://ui.adsabs.harvard.edu/abs/2023AJ....166..107K
